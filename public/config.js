@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/degenxperps",
   "VITE_SEO_SITE_NAME": "DegenX",
   "VITE_SEO_SITE_DESCRIPTION": "Your favorite DEX’s dealer. Where liquidity meets pure degeneracy. Trade fast. Trade dirty. Trade degen.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/degenx-7316/",
+  "VITE_SEO_SITE_URL": "https://degeneratex.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@DegenXPerps",
